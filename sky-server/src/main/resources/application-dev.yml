@@ -8,6 +8,6 @@ sky:
     password: wjj123
   alioss:
     endpoint: oss-cn-shanghai.aliyuncs.com
-    access-key-id: LTAI5tH83HvUVNJnt5vzz59U
+    access-key-id: LTAI5tRRmkU5i4bCYoqn95qN
     access-key-secret:
     bucket-name: king-take-out
